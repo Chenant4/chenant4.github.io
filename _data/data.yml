@@ -104,16 +104,15 @@ experiences:
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
+  - person: Yan Zhou
+    email: Yzhou@one.ai
+    role: Supervisor at Our Next Energy
     recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
+      Anthony is a super employee!
+  - person: Jeff Smith
+    email: jsmith@accuratetechnologies.com
     phone: 012 345 6789
-    role: General Director at example.com
+    role: Supervisor at Accurate Technologies
     recommendation: |
       I would like to work with Alan Doe again!
 
@@ -123,23 +122,17 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: C, C++, Python
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Soldering, small PCB design, and use of mechanical/power tools
     level: 98%
 
-  - name: Angular
+  - name: DC power supply, DMM, function generator, oscilloscope, network analyzer
     level: 98%
 
-  - name: HTML5 & CSS
+  - name: Microsoft Excel and PowerPoint
     level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
