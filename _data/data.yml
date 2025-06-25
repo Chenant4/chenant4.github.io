@@ -56,7 +56,7 @@ sidebar:
       link:
 
 
-    - item: Playing Gold
+    - item: Playing Golf
       link:
 
 
@@ -99,33 +99,47 @@ experiences:
 
 
 
+
+
 recommendations:
   title: Recommendations
   list:
-  - person: Yan Zhou
-    email: Yzhou@one.ai
-    role: Supervisor at Our Next Energy
+  - person: Yareli Perez
+    email: perezyareli@example.com
+    phone: 012 345 6789
+    role: General Director at example.com
+    recommendation: |
+      Alan Doe is a super employee!
+  - person: Lara Henderson
+    email: larah@example.com
+    phone: 012 345 6789
+    role: General Director at example.com
+    recommendation: |
+      I would like to work with Alan Doe again!
 
-  - person: Jeff Smith
-    email: jsmith@accuratetechnologies.com
-    role: Supervisor at Accurate Technologies
+      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: C, C++, Python
+  - name: Python & Django
     level: 98%
 
-  - name: Soldering, small PCB design, and use of mechanical/power tools
+  - name: Javascript & jQuery
     level: 98%
 
-  - name: DC power supply, DMM, function generator, oscilloscope, network analyzer
+  - name: Angular
     level: 98%
 
-  - name: Microsoft Excel and PowerPoint
+  - name: HTML5 & CSS
     level: 95%
 
+  - name: Ruby on Rails
+    level: 85%
+
+  - name: Sketch & Photoshop
+    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
